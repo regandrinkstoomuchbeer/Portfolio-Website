@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url(img/background-image.jpg) no-repeat center;
+    background: url(https://user-images.githubusercontent.com/61661064/116078190-97fa4a80-a696-11eb-93be-f09261d82412.jpg) no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
