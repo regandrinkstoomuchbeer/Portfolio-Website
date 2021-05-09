@@ -240,6 +240,7 @@ section .title::after{
     background: rgb(241, 208, 145);
     color: #fff;
     font-size: 20px;
+    font-family: 'Roboto Mono', monospace;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
@@ -309,6 +310,7 @@ section .title::after{
 .skills .skills-content .left .text{
     font-size: 20px;
     font-weight: 600;
+    font-family: 'Roboto Mono', monospace;
     margin-bottom: 10px;
 }
 .skills .skills-content .left p{
