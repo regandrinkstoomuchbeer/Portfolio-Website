@@ -37,6 +37,10 @@ section{
 .about, .services, .skills, .teams, .contact, footer{
     font-family: 'Playfair Display', serif;
 }
+
+.about {
+    
+}
 .about .about-content, 
 .services .serv-content,
 .skills .skills-content,
