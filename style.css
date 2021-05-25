@@ -351,7 +351,7 @@ section .title::after{
     padding: 20px 25px;
     cursor: pointer;
     transition: all 0.3s ease;
-    box-shadow: 5px 5px 5px 5px lightgrey;
+    box-shadow: 3px 3px 3px 3px lightgrey;
     transition: 0.3s;
   }
   
