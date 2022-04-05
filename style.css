@@ -8,7 +8,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("bg.jpg") top right no-repeat;
+  background: #040404 url("![bg](https://user-images.githubusercontent.com/61661064/161704705-30ce0304-9026-4e88-b97d-d45776be0af7.jpg)") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
